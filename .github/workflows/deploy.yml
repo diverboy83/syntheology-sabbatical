@@ -1,0 +1,74 @@
+name: Deploy to GitHub Pages
+
+# ── Triggers ──────────────────────────────────────────────────────────────────
+# Runs automatically on every push to `main`, and can also be triggered
+# manually from the GitHub Actions tab via workflow_dispatch.
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+# ── Permissions ───────────────────────────────────────────────────────────────
+# `pages: write` and `id-token: write` are required for the official
+# GitHub Pages deployment action to authenticate and publish.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# ── Concurrency ───────────────────────────────────────────────────────────────
+# Ensures only one deployment runs at a time. If a new push arrives while a
+# deployment is in progress, the in-progress run is NOT cancelled — it
+# completes, and the new run queues behind it.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  # ── Job 1: Build ─────────────────────────────────────────────────────────────
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Full git history is required so Quartz can use git commit dates
+          # for the `created` and `modified` metadata on each note.
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Quartz site
+        # The ExplicitPublish filter in quartz.config.ts ensures that ONLY
+        # files with `publish: true` in their frontmatter are included in
+        # the output. All other files are silently excluded.
+        run: npx quartz build
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload build artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Quartz writes its output to the `public/` directory by default.
+          path: public
+
+  # ── Job 2: Deploy ─────────────────────────────────────────────────────────────
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
