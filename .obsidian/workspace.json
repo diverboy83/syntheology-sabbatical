@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-04-05.md",
+                "file": "CODE_OF_CONDUCT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-05"
+              "title": "CODE_OF_CONDUCT"
             }
           }
         ]
@@ -183,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -203,8 +203,8 @@
   },
   "active": "31090eca7ef3ee1f",
   "lastOpenFiles": [
-    "CODE_OF_CONDUCT.md",
     "2026-04-05.md",
+    "CODE_OF_CONDUCT.md",
     "99_Templates/Daily Blueprint.md",
     "2026-04-04.md",
     "content/01_Syllabus/Module_1_Architecture_of_Mind.md",
