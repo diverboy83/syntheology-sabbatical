@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/01_Syllabus/Module_1_Architecture_of_Mind.md",
+                "file": "2026-04-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module_1_Architecture_of_Mind"
+              "title": "2026-04-05"
             }
           }
         ]
@@ -171,6 +171,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6913e53330ddeb82",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 5
@@ -193,15 +203,20 @@
   },
   "active": "31090eca7ef3ee1f",
   "lastOpenFiles": [
+    "CODE_OF_CONDUCT.md",
+    "2026-04-05.md",
+    "99_Templates/Daily Blueprint.md",
+    "2026-04-04.md",
+    "content/01_Syllabus/Module_1_Architecture_of_Mind.md",
+    "99_Templates",
+    "02_Daily_Protocol",
     "content/01_Syllabus/Module_4_Agile_Frameworks.md",
     "content/01_Syllabus/Module_3_Co_Creation.md",
     "content/01_Syllabus/Module_2_Frontier_Tech_Law.md",
-    "content/01_Syllabus/Module_1_Architecture_of_Mind.md",
     "content/03_Sources/Template_Source.md",
     "Untitled.canvas",
     "content/01_Syllabus/Month 1.md",
     "Untitled 1.base",
-    "2026-04-04.md",
     "Untitled 1.canvas",
     "Untitled.base",
     "Untitled.md"
