@@ -4,30 +4,28 @@ type: syllabus-module
 category: philosophy / theology / machine-learning
 priority: mandatory
 status: to-read
-publish: true
+publish: false
 ---
 
-# Module 4: Agile Frameworks & Open-Source Philosophy
+---
+publish: true
+status: planned
+type: macro-module
+duration: Months 19-24
+---
 
-**Duration:** Months 19–24
+# Module 4: Agile Frameworks & The Trinity Dissertation
 
-## Focus Areas
-The final module synthesizes the entire fellowship, focusing on eschatology (the ultimate destiny of humanity and the cosmos), the philosophy of open-source proliferation, and the technical architecture of Mixture of Experts (MoE) models.
+**Anticipated Training Phase:** Peak Racing Season 2027
+**Cognitive Load Allocation:** Synthesis and Output. Minimal new reading; maximum writing and refinement.
 
-- **Theology & Philosophy:** Eschatology, teleology, and the philosophical underpinnings of open-source software and knowledge sharing.
-- **Computer Science:** Mixture of Experts (MoE) architectures, scaling laws, and distributed computing frameworks.
-- **Synthesis:** How does the open-source proliferation of advanced AI (like MoE models) intersect with our eschatological visions of the future? How can agile frameworks guide the ethical deployment of these technologies?
+### Thematic Focus
+The culmination of the Sabbatical. Traditional law is reactive; it looks backward at precedent. Frontier technology is exponential; it looks forward at velocities humans cannot track. This semester is dedicated to designing "Agile Legislation"—policy frameworks that update with the automated cadence of software. 
 
-## Key Outputs
+### Core Academic Intersections
+* **Legal:** Regulatory sandboxes, decentralized autonomous organizations (DAOs) as governing bodies, and dynamic tax structures for algorithmic labor.
+* **Theological:** Eschatology and the ethics of the unknown. How do religious frameworks build moral guardrails for futures they cannot predict? 
+* **Technical:** Finalizing the structural understanding of AGI timelines, multi-agent reinforcement learning, and compute-governance (tracking GPUs instead of code).
 
-1. **Month 21:** *Decentralized AI Policy Framework* — A comprehensive policy proposal for the ethical and agile governance of decentralized, open-source AI architectures.
-2. **Month 24:** *Digital Garden Launch* — The public release of this complete, interactive knowledge graph and course management system.
-
-## Associated Readings & Sources
-- [[Template_Source]]
-- (Add links to notes in `03_Sources` here)
-
-## Lab Work
-- Explore and implement simple MoE architectures.
-- Finalize the structure and deployment pipeline of the Digital Garden.
-- (See `04_Labs` for scripts and outputs)
+### Semester Project (The Apex)
+The finalization, defense, and publication of the Trinity College M.Phil dissertation. The thesis will bind global AI legislative mechanics with the philosophical and theological realities of pluralistic machine personhood.

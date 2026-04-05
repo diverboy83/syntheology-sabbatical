@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c620788c84319a4a",
+        "id": "26c50ef3b2b3e821",
         "type": "tabs",
         "children": [
           {
-            "id": "ef718cf292a97516",
+            "id": "31090eca7ef3ee1f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/01_Syllabus/Module_1_Architecture_of_Mind.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Module_1_Architecture_of_Mind"
             }
           }
         ]
@@ -187,15 +191,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef718cf292a97516",
+  "active": "31090eca7ef3ee1f",
   "lastOpenFiles": [
+    "content/03_Sources/Template_Source.md",
+    "Untitled.canvas",
+    "content/01_Syllabus/Module_4_Agile_Frameworks.md",
+    "content/01_Syllabus/Module_3_Co_Creation.md",
+    "content/01_Syllabus/Module_2_Frontier_Tech_Law.md",
+    "content/01_Syllabus/Module_1_Architecture_of_Mind.md",
+    "content/01_Syllabus/Month 1.md",
     "Untitled 1.base",
     "2026-04-04.md",
     "Untitled 1.canvas",
-    "content/01_Syllabus/Module_1_Architecture_of_Mind.md",
     "Untitled.base",
-    "Untitled.canvas",
-    "content/01_Syllabus/Month 1.md",
     "Untitled.md"
   ]
 }

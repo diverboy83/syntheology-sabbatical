@@ -4,7 +4,7 @@ type: syllabus-module
 category: philosophy / theology / machine-learning
 priority: mandatory
 status: in-progress
-publish: true
+publish: false
 ---
 
 # Module 1: The Architecture of Mind & Pluralistic Personhood

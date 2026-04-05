@@ -4,31 +4,28 @@ type: syllabus-module
 category: theology / law / machine-learning
 priority: mandatory
 status: to-read
-publish: true
+publish: false
 ---
 
-# Module 3: Co-Creation, Audio Architectures, and Authorship
+---
+publish: true
+status: planned
+type: macro-module
+duration: Months 13-18
+---
 
-**Duration:** Months 13–18
+# Module 3: Co-Creation & The Theology of the Synthesizer
 
-## Focus Areas
-This module explores the theological concept of sub-creation alongside the technical architectures of generative audio and the legal complexities of copyright and authorship.
+**Anticipated Training Phase:** Early Base Building for the 2027 Season
+**Cognitive Load Allocation:** Moderate. Focus shifts to audio, synthesis, and creative output.
 
-- **Theology:** The theology of sub-creation (e.g., Tolkien's framework) and human participation in the creative act.
-- **Computer Science:** Generative audio architectures, MIDI generation, and music synthesis.
-- **Law:** Copyright law, authorship in the age of generative AI, and the legal status of AI-generated music.
-- **Synthesis:** How does generative audio challenge our understanding of authorship, both theologically (as sub-creators) and legally (as copyright holders)?
+### Thematic Focus
+This semester bridges your work in global legislation with your pursuit of electronic music and generative art. We will explore the theology of "sub-creation" (humanity's drive to create in the image of a creator) and apply it to generative AI. Is prompting an AI an act of creation, curation, or conjuration?
 
-## Key Outputs
+### Core Academic Intersections
+* **Theological:** J.R.R. Tolkien’s essay *On Fairy-Stories* (the concept of sub-creation) cross-referenced with Jewish mystical traditions of the Golem. 
+* **Philosophical:** The death of the author and the birth of the curator. If an algorithm generates a dark techno track in Ableton, where does the intellectual property actually reside?
+* **Technical/Cultural:** Generative audio architecture. We will break down the black box of how models like Lyria or Suno actually synthesize waveforms. We will use sci-fi literature exploring human-machine symbiosis to frame the ethics of co-authored art.
 
-1. **Month 15:** *Audio Gen Script* — A functional Python script for generating or manipulating audio/MIDI.
-2. **Month 18:** *Copyright Case Study* — An in-depth legal analysis of authorship and copyright concerning generative audio architectures.
-
-## Associated Readings & Sources
-- [[Template_Source]]
-- (Add links to notes in `03_Sources` here)
-
-## Lab Work
-- Build and experiment with generative audio models.
-- Work with MIDI data and synthesis libraries in Python.
-- (See `04_Labs` for scripts and outputs)
+### Semester Project (M.Phil Primer)
+An experiential essay and accompanying audio project exploring the legal and spiritual differences between "playing" an instrument (like a Roli piano or Stratocaster) and "directing" a generative audio model.
