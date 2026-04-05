@@ -1,6 +1,6 @@
 ---
-title: "Syntheology & Silicon Sabbatical"
-publish: true
+title: Syntheology & Silicon Sabbatical
+publish: false
 ---
 
 # Syntheology & Silicon Sabbatical
