@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Daily_Protocol/2026-04-05.md",
+                "file": "99_Templates/Daily Blueprint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-05"
+              "title": "Daily Blueprint"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Daily_Protocol/2026-04-06.md",
+                "file": "99_Templates/Concept Blueprint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-06"
+              "title": "Concept Blueprint"
             }
           }
         ]
@@ -217,10 +217,13 @@
   },
   "active": "31090eca7ef3ee1f",
   "lastOpenFiles": [
+    "04_Architect_OS/Master_OS_Track.md",
     "02_Daily_Protocol/2026-04-06.md",
+    "99_Templates/Daily Blueprint.md",
+    "02_Daily_Protocol/2026-04-05.md",
+    "04_Architect_OS",
     "Mixture of Experts.md",
     "99_Templates/Concept Blueprint.md",
-    "02_Daily_Protocol/2026-04-05.md",
     "content/03_Sources/Template_Source.md",
     "05_Policy_Building_Blocks",
     "content/index.md",
@@ -228,7 +231,6 @@
     "content/01_Syllabus/Module_3_Co_Creation.md",
     "content/01_Syllabus/Module_2_Frontier_Tech_Law.md",
     "content/01_Syllabus/Module_1_Architecture_of_Mind.md",
-    "99_Templates/Daily Blueprint.md",
     "02_Daily_Protocol/2026-04-07.md",
     "CODE_OF_CONDUCT.md",
     "2026-04-05.md",
