@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "23c481165ac73c66",
+        "id": "c620788c84319a4a",
         "type": "tabs",
         "children": [
           {
-            "id": "229cf3ed316329f8",
+            "id": "ef718cf292a97516",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/01_Syllabus/Month 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Month 1"
+              "title": "New tab"
             }
           }
         ]
@@ -161,13 +157,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "cc7d0de90ffbbf52",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,13 +183,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4badd5d713ca7636",
+  "active": "ef718cf292a97516",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Untitled 1.base",
+    "2026-04-04.md",
+    "Untitled 1.canvas",
+    "content/01_Syllabus/Module_1_Architecture_of_Mind.md",
+    "Untitled.base",
+    "Untitled.canvas",
     "content/01_Syllabus/Month 1.md",
-    "content/01_Syllabus/Module_1_Architecture_of_Mind.md"
+    "Untitled.md"
   ]
 }
