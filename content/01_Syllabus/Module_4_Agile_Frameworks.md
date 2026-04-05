@@ -6,26 +6,33 @@ priority: mandatory
 status: to-read
 publish: false
 ---
-
 ---
 publish: true
 status: planned
-type: macro-module
-duration: Months 19-24
+type: syllabus-module
+priority: mandatory
 ---
 
-# Module 4: Agile Frameworks & The Trinity Dissertation
+# Module 4: Agile Frameworks, Compute Governance, and Technological Eschatology
+**Duration:** Months 19–24
+**Cognitive Periodization:** Culmination. Minimal new primary reading; maximum energy directed toward writing, editing, and defending the final thesis. 
 
-**Anticipated Training Phase:** Peak Racing Season 2027
-**Cognitive Load Allocation:** Synthesis and Output. Minimal new reading; maximum writing and refinement.
+### Abstract and Thematic Arc
+The culmination of the Sabbatical. Traditional law is reactive; it looks backward at precedent. Frontier technology is exponential; it looks forward at velocities humans cannot track. This final semester is dedicated to designing "Agile Legislation"—dynamic policy frameworks that update with the automated cadence of software. It binds the entire two-year fellowship into your final M.Phil dissertation.
 
-### Thematic Focus
-The culmination of the Sabbatical. Traditional law is reactive; it looks backward at precedent. Frontier technology is exponential; it looks forward at velocities humans cannot track. This semester is dedicated to designing "Agile Legislation"—policy frameworks that update with the automated cadence of software. 
+### Core Epistemological Lenses
+* **Jurisprudence & Tech Policy:** Regulatory sandboxes, dynamic tax structures for algorithmic labor, and the shift toward Compute Governance (regulating the physical silicon and GPUs rather than the ephemeral software weights).
+* **Theology & Philosophy:** Eschatology (the theology of the end times or ultimate destiny) and the ethics of the unknown. How do religious and philosophical frameworks build moral guardrails for futures they cannot predict? 
+* **Computer Science:** Finalizing the structural understanding of AGI timelines, multi-agent reinforcement learning (MARL), and the physical supply chain constraints of data centers.
 
-### Core Academic Intersections
-* **Legal:** Regulatory sandboxes, decentralized autonomous organizations (DAOs) as governing bodies, and dynamic tax structures for algorithmic labor.
-* **Theological:** Eschatology and the ethics of the unknown. How do religious frameworks build moral guardrails for futures they cannot predict? 
-* **Technical:** Finalizing the structural understanding of AGI timelines, multi-agent reinforcement learning, and compute-governance (tracking GPUs instead of code).
+### Primary Sources & Required Readings
+* **Theological/Philosophical:** Pierre Teilhard de Chardin, *The Phenomenon of Man* (Exploring the "Noosphere" and the theological implications of a globally connected, hyper-intelligent network).
+* **Legal/Policy:** Whitepapers on Compute Governance (e.g., from the Institute for AI Policy or GovAI); Scholarship on dynamic/adaptive law.
+* **Narrative Mirror:** *Foundation* by Isaac Asimov (The conflict between statistical prediction/psychohistory and the unpredictable emergence of black swan events).
 
-### Semester Project (The Apex)
-The finalization, defense, and publication of the Trinity College M.Phil dissertation. The thesis will bind global AI legislative mechanics with the philosophical and theological realities of pluralistic machine personhood.
+### Applied Lab Work (04_Labs)
+* **Multi-Agent Simulation:** Compile and run a basic multi-agent environment to observe emergent behavior and the difficulty of hard-coding localized rules in a dynamic system.
+
+### Key Outputs & Deliverables
+* **Month 21:** The Sabbatical Retrospective (A review of your digital garden's evolution).
+* **Month 24 (The Apex):** **The Trinity College M.Phil Dissertation.** The final defense and publication of your thesis, binding global AI legislative mechanics with the philosophical and theological realities of pluralistic machine personhood.
