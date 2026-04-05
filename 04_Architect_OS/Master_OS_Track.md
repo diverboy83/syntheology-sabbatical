@@ -1,47 +1,48 @@
-### Master OS Track: Week 1 (The Reset)
+# 🛡️ Integrated Architect OS: 12-Week Aesthetic & Sobriety Reset
 
-**Monday, April 6**
-- [ ] 🧘‍♂️ **Prime:** 20-minute Transcendental Meditation + Muse session. 📅 2026-04-06
-- [ ] 🏋️‍♂️ **Aesthetics:** Equinox Strength (Upper Body Focus) + 45 min recovery swim. 📅 2026-04-06
-- [ ] 🌉 **5 PM Air Gap:** State-shift protocol. 15 mins neuroVIZR + Tart Cherry botanical drink. 📅 2026-04-06
-- [ ] 🍽️ **Sacred Dinner:** Cook Italian from scratch with Sean. Zero screens. 📅 2026-04-06
-- [ ] 📖 **Wind-Down:** Neuropod + Pulsetto. Read *The Murderbot Diaries*. 📅 2026-04-06
+## 🧱 Phase 1: Habit Foundation (April 5 – April 19)
+*Goal: Solidify the 5 PM Air Gap and aerobic baseline. No heavy lifting yet.*
 
-**Tuesday, April 7**
-- [ ] 🧘‍♂️ **Prime:** 20-minute Transcendental Meditation + Muse session. 📅 2026-04-07
-- [ ] 🚴‍♂️ **Ironman:** 60-minute Zone 2 Bike Trainer session. 📅 2026-04-07
-- [ ] 🌉 **5 PM Air Gap:** State-shift protocol. 15 mins Pulsetto (Anxiety mode) + Botanical drink. 📅 2026-04-07
-- [ ] 🎶 **Flow State:** 30 minutes on the Pioneer DJ controller. No mixing goals, just play. 📅 2026-04-07
-- [ ] 📖 **Wind-Down:** Neuropod + LED Mask. 📅 2026-04-07
+### Week 1 (April 6 - April 12)
+- [ ] 🧘‍♂️ **Prime:** 20m TM + Muse. 📅 2026-04-06
+- [ ] 🏃‍♂️ **Ironman:** 45m Run (Zone 2). 📅 2026-04-06
+- [ ] 🌉 **5 PM Air Gap:** State-shift (neuroVIZR) + Botanical drink. 📅 2026-04-06
+- [ ] 🧘‍♂️ **Prime:** 20m TM + Muse. 📅 2026-04-07
+- [ ] 🚴‍♂️ **Ironman:** 45m Bike (Zone 2). 📅 2026-04-07
+- [ ] 🌉 **5 PM Air Gap:** State-shift (Pulsetto) + Botanical drink. 📅 2026-04-07
+- [ ] 🧘‍♂️ **Prime:** 20m TM + Muse. 📅 2026-04-08
+- [ ] 🏃‍♂️ **Ironman:** 45m Run (Zone 2). 📅 2026-04-08
+- [ ] 🌉 **5 PM Air Gap:** State-shift (neuroVIZR) + Botanical drink. 📅 2026-04-08
+- [ ] 🧘‍♂️ **Prime:** 20m TM + Muse. 📅 2026-04-09
+- [ ] 🚴‍♂️ **Ironman:** 45m Bike (Zone 2). 📅 2026-04-09
+- [ ] 🌉 **5 PM Air Gap:** State-shift (Pulsetto) + Botanical drink. 📅 2026-04-09
+- [ ] 🧘‍♂️ **Prime:** 20m TM + Muse. 📅 2026-04-10
+- [ ] 🤸‍♂️ **Pvolve:** "Friday Flow" (Mobility & Functional Core). 📅 2026-04-10
+- [ ] 🌉 **5 PM Air Gap:** State-shift (neuroVIZR) + Botanical drink. 📅 2026-04-10
+- [ ] 🏊‍♂️ **Ironman:** 30m Swim (Drills & Technique) + Rash Guard Armor. 📅 2026-04-11
+- [ ] 🏊‍♂️ **Ironman:** 45m Swim (Endurance) + Family Board Meeting with Sean. 📅 2026-04-12
 
-**Wednesday, April 8**
-- [ ] 🧘‍♂️ **Prime:** 20-minute Transcendental Meditation + Muse session. 📅 2026-04-08
-- [ ] 🏃‍♂️ **Ironman:** 45-minute Tempo Run. 📅 2026-04-08
-- [ ] 🏋️‍♂️ **Aesthetics:** Equinox Strength (Lower Body / Core). 📅 2026-04-08
-- [ ] 🌉 **5 PM Air Gap:** State-shift protocol. 15 mins neuroVIZR + Tart Cherry botanical drink. 📅 2026-04-08
-- [ ] 🍽️ **Sacred Dinner:** Cook Greek from scratch with Sean. Zero screens. 📅 2026-04-08
-- [ ] 🃏 **Flow State:** Play 1-2 matches of MTG Commander online. 📅 2026-04-08
+---
 
-### Week 1-4: The Aerobic Base (April 6 – May 3)
-*Focus: Establishing the "Air Gap" and Zone 2 consistency.*
+## 🚀 Phase 2: Aesthetic Build (April 20 – June 14)
+*Goal: Hypertrophy for "Cruise Ready" physique (3 sets of 10-12 reps).*
 
-**Daily Non-Negotiables:**
-- [ ] 🧘‍♂️ **Prime:** 20m TM + Muse. 
-- [ ] 🌉 **5 PM Air Gap:** State-shift (neuroVIZR/Pulsetto) + Botanical drink.
-- [ ] 🍽️ **Sacred Dinner:** Zero screens with Sean.
-- [ ] 📖 **Wind-Down:** Neuropod/LED Mask + *The Murderbot Diaries*.
-
-**Weekly Schedule (Update 📅 dates as you progress):**
-- **Mon:** 🏃‍♂️ 45m Z2 Run + 🏋️‍♂️ Equinox Strength (Upper).
-- **Tue:** 🚴‍♂️ 60m Z2 Bike.
-- **Wed:** 🏃‍♂️ 45m Tempo Run + 🏋️‍♂️ Equinox Strength (Lower).
-- **Thu:** 🚴‍♂️ 60m Z2 Bike (Intervals).
-- **Fri:** 🧘‍♂️ Mobility/Recovery + 🎶 Flow State (DJ Decks).
-- **Sat:** 🏊‍♂️ 2000m Swim + 🚴‍♂️ 2hr Long Ride.
-- **Sun:** 🏊‍♂️ 1500m Recovery Swim + 🏃‍♂️ 90m Long Run.
-
-### Weeks 5-8: The Build Phase (May 4 – May 31)
-*Volume increases by 15%. Equinox strength moves to maintenance.*
-
-### Weeks 9-10: Peak & Taper (June 1 – June 14)
-*Maximum Ironman intensity, followed by a total cognitive/physical deload.*
+### Week 3 (April 20 - April 26) - The First Aesthetic Stack
+- [ ] 🧘‍♂️ **Prime:** 20m TM + Muse. 📅 2026-04-20
+- [ ] 🏃‍♂️ **Ironman:** 45m Run (Zone 2). 📅 2026-04-20
+- [ ] 🌉 **5 PM Air Gap:** State-shift (neuroVIZR) + Botanical drink. 📅 2026-04-20
+- [ ] 🧘‍♂️ **Prime:** 20m TM + Muse. 📅 2026-04-21
+- [ ] 🚴‍♂️ **Ironman:** 45m Bike (Zone 2). 📅 2026-04-21
+- [ ] 🏋️‍♂️ **Aesthetics A (Power Front):** DB Chest Press, Lat Raises, Tricep Pushdowns, Goblet Squats, Plank (3x60s). 📅 2026-04-21
+- [ ] 🌉 **5 PM Air Gap:** State-shift (Pulsetto) + Botanical drink. 📅 2026-04-21
+- [ ] 🧘‍♂️ **Prime:** 20m TM + Muse. 📅 2026-04-22
+- [ ] 🏃‍♂️ **Ironman:** 45m Run (Zone 2). 📅 2026-04-22
+- [ ] 🌉 **5 PM Air Gap:** State-shift (neuroVIZR) + Botanical drink. 📅 2026-04-22
+- [ ] 🧘‍♂️ **Prime:** 20m TM + Muse. 📅 2026-04-23
+- [ ] 🚴‍♂️ **Ironman:** 45m Bike (Zone 2). 📅 2026-04-23
+- [ ] 🏋️‍♂️ **Aesthetics B (V-Taper):** Lat Pulldowns, Seated Rows, DB Bicep Curls, Hammer Curls, Hanging Leg Raises. 📅 2026-04-23
+- [ ] 🌉 **5 PM Air Gap:** State-shift (Pulsetto) + Botanical drink. 📅 2026-04-23
+- [ ] 🧘‍♂️ **Prime:** 20m TM + Muse. 📅 2026-04-24
+- [ ] 🤸‍♂️ **Pvolve:** "Friday Flow". 📅 2026-04-24
+- [ ] 🏊‍♂️ **Ironman:** 30m Swim + Rash Guard Armor. 📅 2026-04-25
+- [ ] 🏊‍♂️ **Ironman:** 45m Swim + Family Board Meeting. 📅 2026-04-26
